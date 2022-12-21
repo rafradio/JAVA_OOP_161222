@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<students>
+	<student>
+		<name>Степан Кузьмин</name>
+		<grade>3.6</grade>
+	</student>
+	<student>
+		<name>Мария Кузнецова</name>
+		<grade>5.0</grade>
+	</student>
+	<student>
+		<name>Иван Иванов</name>
+		<grade>4.8</grade>
+	</student>
+</students>
